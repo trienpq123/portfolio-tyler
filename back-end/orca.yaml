@@ -1,0 +1,6 @@
+# orca.yaml - cho repo shop-be (backend only)
+worktree:
+  sharedDirectories:
+    - vendor
+setup:
+  - composer install || true

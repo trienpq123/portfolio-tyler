@@ -1,0 +1,6 @@
+# .worktreeinclude - để ở root repo, copy nguyên file này
+# Mỗi dòng là 1 file cần copy vào worktree mới
+.env
+.env.local
+backend/.env
+frontend/.env
